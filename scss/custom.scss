@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
+@import url(http://fonts.googleapis.com/css?family=Merriweather);
+
+h1, h2, h3, h4 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.title-header {
+	// margin-top: 4em;
+	text-transform: uppercase;
+
+	h1 {
+		font-size: 5.5em;
+	}
+}
+
+.top-description {
+	margin-top: 1em;
+	font-family: 'Merriweather';
+	margin-bottom: 200px;
+}
+
+#daniel-head {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: 220px;
+}
